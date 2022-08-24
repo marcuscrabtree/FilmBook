@@ -10,8 +10,16 @@ function TopMovieList() {
     const [moviesList, setMoviesList] = useState([])
 
   const topMovieListStyle = {
-    textAlign: "center",
-  }
+    backgroundSize: "cover",
+        padding: "10px 5px",
+        textAlign: "center",
+        contentAlign: "center",
+        color: "white",
+        fontSize: "25px",
+        width: '100vw',
+        height: '100vh',
+        textShadow: "0 0 10px #00D8D8",
+    }
   
 
   useEffect(() => {
@@ -73,4 +81,3 @@ function TopMovieList() {
   }
 
 export default TopMovieList
-

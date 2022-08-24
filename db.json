@@ -1,78 +1,76 @@
 {
-    "movies": [
-      {
-        "id": 1,
-        "name": "Shrek",
-        "image": "https://m.media-amazon.com/images/I/718v5JQ5cXL._AC_SY679_.jpg",
-        "description": "Some dude survives a Shrek attack!",
-        "key": "CwXOrWvPBPk"
-      },
-      {
-        "id": 2,
-        "name": "2) Mermaid",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7rhuk7a4QZHvHDH9j9QFGoGZn0xRlseNBrboVbWcbyPYVam5w2cJTr3akDexa&s=10",
-        "description": "The film won two Academy Awards for Best Original Score and Best Original Song (Under the Sea)."
-      },
-      {
-        "id": 3,
-        "name": "3) Hercules",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFkp2ne0q-IticIpRMIevE5q_VYR7mQJqyf_3hwtKGE7wNVGx1EnKFx3cIVARW&s=10",
-        "description": "Hercules earned $252.7 million in Box Office revenue worldwide"
-      },
-      {
-        "id": 4,
-        "name": "4) Shrek",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvQ917Pmlz6Eawrzi3FbsD3h5_nRCY9B1hHA1Z3GCjZsPRphJtU5ra0mrzweEI&s=10",
-        "description": "After opening at No. 1 at the domestic box office, it went on to earn nearly $500 million worldwide on a production budget of $60 million. “Shrek” was widely praised by critics and went on to win the first Academy Award for best animated feature, beating out, among others, Pixar's “Monsters, Inc."
-      },
-      {
-        "id": 5,
-        "name": "5) Cars",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsb-DPYsqizqNHxtu9ZCFsRjj0ga75TVYeL-QHvfXVRs8hPc9x3VrFmxv3xQSL&s=10",
-        "description": "Won both the Annie Award for Best Animated Feature and the Golden Globe Award for Best Animated Feature Film"
-      },
-      {
-        "id": 6,
-        "name": "6) Toy Story",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwE696_jaRhE6jdZDzQND2V05hhg9QT0bpzAEdl2t4LsbPcwgJ9PYcCBlLnr8I&s=10",
-        "description": "The film was critically and financially successful, grossing over $373 million worldwide"
-      },
-      {
-        "id": 7,
-        "name": "7) Beauty and the beast",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeRELQpIDrfETpOoyA04JGI2J1K2cSlf8ieIjv34MXiUAz2_KobRsnZ0rlNjTx&s=10",
-        "description": "Beauty and the Beast has officially crossed the $1 billion mark at the box office. The live-action film, starring Emma Watson, is now this year's highest grossing film worldwide"
-      },
-      {
-        "id": 8,
-        "name": "8) Monsters inc",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAMRJJLZiA1SW_ZqJHY0lXqErcavb9GnCv3-voCR12nSeR9RrOlHdVV0FNiutI&s=10",
-        "description": "Monsters, Inc. received critical acclaim and was a commercial success, grossing over $577 million worldwide to become the third highest-grossing film of 2001"
-      },
-      {
-        "id": 9,
-        "name": "9) Sleeping Beauty",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0QXaUPeYCXJhlxZ6CLZMttIU91y8cYUuSgbuHOt9HxzhW6Tx1ufS2hjwhvtE5&s=10",
-        "description": "During its original release in January 1959, Sleeping Beauty grossed approximately $5.3 million in theater rentals (the distributor's share of the box office gross) from the United States and Canada."
-      },
-      {
-        "id": 10,
-        "name": "10) Mulan",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmFHtCAXYbChTJ3pha4HYz4FW7c41xv6jVcFedXOY-HjMrBQ5XoxPNHl4ff-66&s=10",
-        "description": "It grossed over $304 million. It earned a Golden Globe and Academy Award nomination and won several Annie Awards, including Best Animated Feature."
-      }
-    ],
-    "topList": [
-      {
-        "name": "Hot Rod ",
-        "image": "http://gonewiththetwins.com/new/wp-content/uploads/2016/05/hotrod.jpg",
-        "id": 1
-      },
-      {
-        "name": "Hot Rod ",
-        "image": "https://i5.walmartimages.com/asr/0340430e-0246-4f81-8dab-e98323e6b26e_1.741acfc9f06cea3593e00c7c116999ec.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
-        "description": "This is the description of the movie. It's pretty sick. There's mopeds and stuff.",
-        "id": 2
-      }
-    ]
-  }
+  "movies": [
+    {
+      "id": 1,
+      "name": "Shrek",
+      "image": "https://xl.movieposterdb.com/11_12/2001/126029/xl_126029_cee44e30.jpg",
+      "description": "Some dude survives a Shrek attack!",
+      "key": "CwXOrWvPBPk"
+    },
+    {
+      "id": 2,
+      "name": "The Notebook",
+      "image": "https://xl.movieposterdb.com/05_06/2004/0332280/xl_21455_0332280_8bb3d42c.jpg",
+      "description": "Behind every great love is a Ryan Gosling holding in a fart.",
+      "key": "FC6biTjEyZw"
+    },
+    {
+      "id": 3,
+      "name": "Step Brothers",
+      "image": "https://xl.movieposterdb.com/08_03/2008/838283/xl_838283_5ca47411.jpg",
+      "description": "What are you doing Step Bro?",
+      "key": "CewglxElBK0"
+    },
+    {
+      "id": 4,
+      "name": "The Godfather",
+      "image": "https://xl.movieposterdb.com/22_07/1972/68646/xl_68646_8c811dec.jpg",
+      "description": "American Masterpiece, apparently.",
+      "key": "UaVTIH8mujA"
+    },
+    {
+      "id": 5,
+      "name": "A Most Violent Year",
+      "image": "https://xl.movieposterdb.com/14_09/2014/2937898/xl_2937898_45de5d47.jpg",
+      "description": "A western meets 1970s New York. 10/10, Carlos is two steps from drunk dialing Oscar Isaac.",
+      "key": "o87gG7ZlEAg"
+    },
+    {
+      "id": 6,
+      "name": "Serial (Bad) Weddings 3 (Qu’est-ce qu’on a TOUS fait au Bon Dieu?)",
+      "image": "https://tickets.imagix.be/system/images/posters/000/001/603/medium.jpg?1638202105",
+      "description": "Five Daughters. None of them married a french guy.",
+      "key": "cJrYItoGXQU"
+    },
+    {
+      "id": 7,
+      "name": "The Fast and The Furious",
+      "image": "https://xl.movieposterdb.com/08_02/2001/232500/xl_232500_37d9e7cd.jpg",
+      "description": "You almost had me?! You never even had your code!",
+      "key": "2TAOizOnNPo"
+    },
+    {
+      "id": 8,
+      "name": "The Land Before Time: The Great Longneck Migration",
+      "image": "https://xl.movieposterdb.com/05_11/2003/0378230/xl_63740_0378230_90e9f1e6.jpg",
+      "description": "I don't know, Tommy said it was his favorite movie.",
+      "key": "6JcuTO9yL0k"
+    },
+    {
+      "id": 9,
+      "name": "Rush Hour 2",
+      "image": "https://xl.movieposterdb.com/09_01/2001/266915/xl_266915_f6f60909.jpg",
+      "description": "I like my chicken dead and deep fried. You ever heard of Popeyes?",
+      "key": "SCTzYY95Aw4"
+    },
+    {
+      "id": 10,
+      "name": "Star Wars: A New Hope",
+      "image": "https://xl.movieposterdb.com/21_01/1977/76759/xl_76759_43e2730c.jpg",
+      "description": "A farmboy joins a terrorist group and ends up destroying a space station.",
+      "key": "vZ734NWnAHA"
+    }
+  ],
+  "topList": [
+  ]
+}

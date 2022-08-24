@@ -5,13 +5,17 @@ function NavBar() {
 
     const linkStyles = {
         display: "inline-block",
-        width: "90px",
+        width: "100px",
         padding: "10px",
         margin: "0 6px 6px",
-        background: "black",
+        background: "#00D8D8",
         textDecoration: "none",
         color: "white",
+        textAlign: "center",
+        borderRadius: "10px",
+        fontSize: "12px",
       };
+
     return (
       <div>
       <NavLink
@@ -19,7 +23,8 @@ function NavBar() {
         exact
         style={linkStyles}
         activeStyle={{
-          background: "black",
+          background: "white",
+          color: "black",
         }}
       > Home
             </NavLink>
@@ -28,20 +33,23 @@ function NavBar() {
         exact
         style={linkStyles}
         activeStyle={{
-          background: "black",
+          background: "white",
+          color: "black",
+
         }}
       >
-        All Movies
+        Our Movies
             </NavLink>
             <NavLink
         to="/TopMovieList"
         exact
         style={linkStyles}
         activeStyle={{
-          background: "black",
+          background: "white",
+          color: "black",
         }}
       >
-       Your Top List
+       Your Movies
         </NavLink>
       </div>
       

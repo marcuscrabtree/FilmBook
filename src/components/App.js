@@ -14,7 +14,7 @@ function App() {
   }
 
   const style = {
-    backgroundColor: '#03FDFC',
+    backgroundColor: 'black',
     padding: "30px 0",
     flexDirection: "row",
     width: "100vw",

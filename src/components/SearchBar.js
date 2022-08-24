@@ -4,7 +4,8 @@ function SearchBar({ onSearch }) {
 
   const searchStyle = {
     textAlign: "center",
-   
+    color: "white",
+  
   }
 
   function handleSubmit(e) {
@@ -18,7 +19,7 @@ function SearchBar({ onSearch }) {
 
   return (
     <form style={searchStyle} className="searchbar" onSubmit={handleSubmit}>
-      <label htmlFor="search">Search:</label>
+      <label htmlFor="search">Search: &nbsp;</label>
       <input
         type="text"
         id="search"
