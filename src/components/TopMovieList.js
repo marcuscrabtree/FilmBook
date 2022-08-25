@@ -11,14 +11,13 @@ function TopMovieList() {
 
   const topMovieListStyle = {
     backgroundSize: "cover",
-        padding: "10px 5px",
         textAlign: "center",
         contentAlign: "center",
         color: "white",
         fontSize: "25px",
         width: '100vw',
         height: '100vh',
-        textShadow: "0 0 10px #00D8D8",
+        textShadow: "0 0 10px black",
     }
   
 
@@ -56,10 +55,10 @@ function TopMovieList() {
 
     return (
       <div style={topMovieListStyle}>
-        <h1>Add Movie</h1>
+        <h1>Add your film here!</h1>     
         <form onSubmit={handleNewMovie}>
           <div>
-            <input type="text" name="movie name" placeholder="Movie Name" value={name} onChange={(e)=> setName (e.target.value)} />
+            <input type="text" name="movie name" placeholder="Add Movie" value={name} onChange={(e)=> setName (e.target.value)} />
           </div>
           <div>
             <input type="text" name="image" placeholder="Image" value={image} onChange={(e)=> setImage (e.target.value)} />

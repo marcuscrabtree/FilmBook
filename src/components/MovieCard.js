@@ -28,7 +28,7 @@ function MovieCard({ movie }) {
             display: "block",
             marginLeft: "auto",
             marginRight: "auto",
-            width: "100%",
+            width: "40%",
             }} />
         </div>
       </div>
@@ -37,7 +37,7 @@ function MovieCard({ movie }) {
         <strong>{name}</strong>
       </div> 
       <div>
-      <h7>Description: {description}</h7> 
+      <h7>{description}</h7> 
 
       </div>
     </ul>
